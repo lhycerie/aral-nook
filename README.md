@@ -1,10 +1,10 @@
-# AralNook — Study Space Finder 📖📍
+# AralNook — Study Space Finder
 
 A web-based geospatial application designed to help students discover study-friendly hubs (cafés, public libraries, coworking spaces) across the Philippines and worldwide, powered by live OpenStreetMap spatial data.
 
 ---
 
-## ✨ Features
+## Features
 
 - **Interactive Spatial Map**: Browse study spots with custom pins, radius boundaries, and responsive pan-to-marker controls using Leaflet.js.
 - **Automated OpenStreetMap & Overpass Retrieval**: Real-time study spot queries with multi-mirror failover for high availability.
@@ -14,7 +14,7 @@ A web-based geospatial application designed to help students discover study-frie
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Framework**: [Next.js](https://nextjs.org/) (App Router, React 19)
 - **Styling**: [Tailwind CSS v4](https://tailwindcss.com/)
@@ -24,33 +24,18 @@ A web-based geospatial application designed to help students discover study-frie
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Node.js 18.18+ (Node.js 20+ recommended)
-- npm
+## Getting Started
 
 ### Installation & Development
 
 ```bash
-git clone https://github.com/lhycerie/aral-nook.git
-cd aral-nook
 npm install
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) in your browser.
-
-### Building for Production
+### Production
 
 ```bash
 npm run build
 npm start
 ```
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
