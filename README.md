@@ -1,6 +1,12 @@
 # AralNook — Study Space Finder
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lhycerie/aral-nook/main/public/assets/logo.png" alt="AralNook Logo" width="400" />
+</p>
+
 A web-based geospatial application designed to help students discover study-friendly hubs (cafés, public libraries, coworking spaces) across the Philippines and worldwide, powered by live OpenStreetMap spatial data.
+
+Live at: https://aral-nook.vercel.app/ 
 
 ---
 
